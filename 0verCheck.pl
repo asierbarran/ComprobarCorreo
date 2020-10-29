@@ -1,11 +1,4 @@
-###################### 0verCheck ###################
-# Coded by The X-C3LL (J.M. Fernández)             #
-# Email: overloadblog////hotmail////es             #
-# Blog: 0verl0ad.blogspot.com                      #
-# Twitter: https://twitter.com/TheXC3LL            #
-######################  v0.1  ######################
-
-
+#
 use Net::DNS;
 use IO::Socket;
 use Getopt::Long;
